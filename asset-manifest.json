@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nugi/static/css/main.073c9b0a.css",
+    "main.js": "/nugi/static/js/main.7069f64a.js",
+    "static/js/787.1b251b18.chunk.js": "/nugi/static/js/787.1b251b18.chunk.js",
+    "static/media/logo.svg": "/nugi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nugi/index.html",
+    "main.073c9b0a.css.map": "/nugi/static/css/main.073c9b0a.css.map",
+    "main.7069f64a.js.map": "/nugi/static/js/main.7069f64a.js.map",
+    "787.1b251b18.chunk.js.map": "/nugi/static/js/787.1b251b18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7069f64a.js"
+  ]
+}
